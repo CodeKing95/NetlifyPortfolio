@@ -99,6 +99,7 @@ h2 {
   line-height: 34px;
 }
 
+
 /* Pragraphs text large medium small */
 /* Body 1 */
 .text-lg {
@@ -457,6 +458,44 @@ h2 {
   line-height: 150%;
 }
 /* Testimonial Ends */
+
+.experience-section {
+  padding: 60px 20px;
+}
+
+.section-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.experience-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.experience-card {
+  padding: 20px;
+  border-radius: 10px;
+  background: #9fb0e4ff;
+}
+
+.experience-role {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.experience-company {
+  color: #5e3bee;
+  margin-bottom: 10px;
+}
+
+.experience-description li {
+  margin-bottom: 5px;
+  line-height: 1.4;
+}
+
 .contact--section {
   display: flex;
   padding: 150px 85px;

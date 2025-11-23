@@ -13,7 +13,7 @@ export default function MySkills() {
           data-aos="zoom-in"
           data-aos-delay="100"
         >
-          My Expertise
+          My Tech Skills
         </h2>
       </div>
 
@@ -44,6 +44,7 @@ export default function MySkills() {
           </div>
         ))}
       </div>
+      
     </section>
   );
 }

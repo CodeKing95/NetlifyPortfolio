@@ -18,7 +18,7 @@ function Footer() {
 
       <div className="footer--link--container" data-aos="fade-up">
         <div data-aos="fade-right">
-          <img src="./img/logo.svg" alt="Logoipsum" />
+          <img src="./img/logo1.png" alt="Logoipsum" height="50" width="50"/>
         </div>
 
         <div className="footer--items" data-aos="fade-up" data-aos-delay="200" >
@@ -85,7 +85,7 @@ function Footer() {
                 to="testimonial"
                 className="text-md"
               >
-                Testimonials
+                Experience
               </Link>
             </li>
           </ul>
@@ -185,7 +185,7 @@ function Footer() {
       </div>
       <hr className="divider" data-aos="fade-in"/>
       <div className="footer--content--container" data-aos="fade-up">
-        <p className="footer--content">Made with 💖 by John</p>
+        <p className="footer--content">Developed 💖 by Nadir Ahmed @ 2025.</p>
         <div className="footer--social--icon" data-aos="fade-left" data-aos-delay="200">
           <ul>
             <li>

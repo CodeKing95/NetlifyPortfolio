@@ -24,7 +24,7 @@ export default function AboutMe() {
             data-aos="zoom-in"
             data-aos-delay="300"
           >
-            About Me
+            ABOUT ME
           </h2>
 
           <p
@@ -32,18 +32,35 @@ export default function AboutMe() {
             data-aos="fade-up"
             data-aos-delay="400"
           >
-            abcdefg
+            I am a software Developer and I specialize in Frontend and Backend development. 
           </p>
-
-          <p
+             <p
             className="hero--section-description"
             data-aos="fade-up"
-            data-aos-delay="500"
+            data-aos-delay="400"
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae?
+            
+            I come from an IT Support background but since I discovered coding, I felt love in it and i like the idea about turning ideas into impactful software solutions. 
           </p>
+
+            <p
+            className="hero--section-description"
+            data-aos="fade-up"
+            data-aos-delay="400"
+          >
+           So i have decided to change my career into becoming a software developer and I have no regrets at all :)
+          </p>
+
+          
+
+             <p
+            className="hero--section-description"
+            data-aos="fade-up"
+            data-aos-delay="400"
+          >
+            Let's get connected!
+          </p>
+
         </div>
       </div>
     </section>

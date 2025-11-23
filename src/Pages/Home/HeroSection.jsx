@@ -22,6 +22,7 @@ export default function HeroSection() {
         data-aos="fade-right"
       >
         <div className="hero--section--content">
+          <p className="section--title">Hey, I'm Nadir Ahmed</p>
           <h1 
             className="hero--section--title"
             data-aos="fade-up"
@@ -38,6 +39,7 @@ export default function HeroSection() {
           >
             A warm welcome to my portfolio website.
           </p>
+          
         </div>
 
       

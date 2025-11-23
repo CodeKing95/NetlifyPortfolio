@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
+
 export default function ContactMe() {
     useEffect(() => {
     AOS.init({
@@ -16,7 +17,7 @@ export default function ContactMe() {
         <p className="sub--title">Get In Touch</p>
         <h2 data-aos="fade-up">Contact Me</h2>
         <p className="text-lg" data-aos="fade-up" data-aos-delay="200">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. In, odit.
+          Please don't hesitate to contact me.
         </p>
       </div>
 
@@ -63,15 +64,7 @@ export default function ContactMe() {
             />
           </label>
         </div>
-        <label htmlFor="choode-topic" className="contact--label" data-aos-delay="200">
-          <span className="text-md">Choose a topic</span>
-          <select id="choose-topic" className="contact--input text-md">
-            <option>Select One...</option>
-            <option>Item 1</option>
-            <option>Item 2</option>
-            <option>Item 3</option>
-          </select>
-        </label>
+     
         <label htmlFor="message" className="contact--label" data-aos="fade-up" data-aos-delay="300">
           <span className="text-md">Message</span>
           <textarea

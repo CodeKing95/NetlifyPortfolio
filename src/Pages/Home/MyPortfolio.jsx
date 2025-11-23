@@ -14,7 +14,7 @@ export default function MyPortfolio() {
                         data-aos="zoom-in"
                         data-aos-delay="100"
                     >
-                        Projects
+                        PROJECTS
                     </h2>
                 </div>
 
